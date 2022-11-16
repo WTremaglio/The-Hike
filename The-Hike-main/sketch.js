@@ -1,18 +1,13 @@
-function setup() {
-    // put setup code here
-
-}
-
-function draw() {
-    // put drawing code here
-    var bgImg;
+var bgImg;
 var x1 = 0;
 var x2;
-
 var scrollSpeed = 2;
 
+
+
+
 function preload(){
-	bgImg = loadImage("bg.png");
+	bgImg = loadImage("images.png");
 }
 
 function setup() { 
@@ -35,6 +30,4 @@ function draw() {
     x2 = width;
   }
   
-}
-    
 }
