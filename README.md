@@ -7,13 +7,11 @@
 </div>
 
 ## Project Description
----
 *The Hike* is a retro adventure platformer that takes place in a forest. Using a combination of JavaScript and the P5.JS library, *The Hike* will bring life back into the retro video game market. Our message is clear: Simple and retro video games can and are still enjoyable. We hope you enjoy it!
 
 >"One afternoon, Paul Bun set out on a hike through Bear Lakes, Minnesota when he crosses paths with a wild black bear. The bear immediately starts to chase after Paul through the forest. Armed only with bear mace, Paul’s only option is to keep running. Whenever Paul uses the bear mace, the bear is disoriented for a small amount of time. However, when the bear recovers, its speed increases. Paul better move quick if he is to reach the safety of a nearby cabin before the bear catches him."
 
 ## How to Play
----
 
 ## 1. Setup
 When running P5.JS on your local computer, a few extra steps must be taken to ensure the program runs properly. Complete, in-depth instructions for operating a P5.JS program can be found on [P5's Get Started page](https://p5js.org/get-started/) and a guide to setting up a local server on your computer can be found on [P5's GitHub page](https://github.com/processing/p5.js/wiki/Local-server). We found that the easiest process is to follow their guide on "Web Server for Chrome extension" but you are welcome to attempt the guide's other solutions for using a local web server. We have included P5's instructions on using a local web server through Chrome below:
@@ -37,7 +35,6 @@ When running P5.JS on your local computer, a few extra steps must be taken to en
 ```
 
 ## Project Documentation
----
 
 ## 1. Project Brief
 
@@ -89,7 +86,6 @@ Write a comprehensive report about the multimedia application you have implement
 - Our game is set apart from other modern-day platformers by the fact that it taps into the deserted market of pixelated games. The market saw this happen with Flappy Bird. The last pixelated Mario game was released in 1992. The Hike will bring life back into this niche market, as we all know gamers are nostalgic.
 
 ## Code Documentation
----
 
 ## 1. Menu Screen
 
@@ -262,8 +258,7 @@ function mouseClicked() {
 ```
 
 ## Known Bugs
----
+
 ## Contributors
----
 - [William Tremaglio](https://github.com/WTremaglio), Creative Computing
 - Kamryn Dudwal, Creative Computing
