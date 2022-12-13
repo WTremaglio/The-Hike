@@ -2,8 +2,16 @@ html,
 body {
   margin: 0;
   padding: 0;
+  background-color: #EBEDD5;
 }
-
+body {
+  border-style: solid;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
 canvas {
   display: block;
 }
