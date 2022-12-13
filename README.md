@@ -1,9 +1,9 @@
 <div align = "center">
-<img src = "The%20Hike/assets/Queen%20Mary.png"/>
+<img src = "The%20Hike/assets/other/Queen%20Mary.png"/>
 
 # The Hike</br>Final Project - Adventure Game
 
-<img src = "The%20Hike/assets/The%20Hike.png"/>
+<img src = "The%20Hike/assets/other/The%20Hike.png"/>
 </div>
 
 ## Project Description
