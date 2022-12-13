@@ -25,6 +25,9 @@ jumpCounter = 0;
 win = false;
 
 function preload() {
+  // Loading game music
+  music = loadSound("assets/other/music.mp3");
+  
   // Loading assets for Menu
   bg = loadImage("assets/backgrounds/background.jpg"); // Loading background image
   pressStart = loadFont("assets/other/PressStart2P-Regular.ttf"); // Loading font style
@@ -573,6 +576,8 @@ function mouseClicked() {
       if (mouseY >= 255 && mouseY <= 305) {
         if (mouseX >= 187.5 && mouseX <= 362.5) {
           switchToGame();
+          music.stop();
+          music.loop();
         } else if (mouseX >= 437.5 && mouseX <= 612.5) {
           switchToHelp();
         }
